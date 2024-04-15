@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompilerVsAsync", "Compiler
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowManyThreads", "HowManyThreads\HowManyThreads.csproj", "{6BF028DC-B5BB-4E1E-855C-0E463C2F8B0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GracefulCancellation", "GracefulCancellation\GracefulCancellation.csproj", "{8AD26029-3C6A-4F49-9841-71C00331306C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6BF028DC-B5BB-4E1E-855C-0E463C2F8B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BF028DC-B5BB-4E1E-855C-0E463C2F8B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BF028DC-B5BB-4E1E-855C-0E463C2F8B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD26029-3C6A-4F49-9841-71C00331306C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD26029-3C6A-4F49-9841-71C00331306C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD26029-3C6A-4F49-9841-71C00331306C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD26029-3C6A-4F49-9841-71C00331306C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
