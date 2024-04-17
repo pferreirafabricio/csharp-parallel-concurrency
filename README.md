@@ -8,7 +8,7 @@
   <br><br>
   <!-- License -->
   <a>
-    <img alt="license url" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=FF822D">
+    <img alt="license url" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=75387A&color=FF822D">
   </a>
 </p>
 <br>
