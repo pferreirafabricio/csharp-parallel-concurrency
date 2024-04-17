@@ -35,7 +35,7 @@ TASK 1 |------|     (Core 1)
 - Parallel programming = CPU-bound stuff happening at same point in time
 - Threads are executed on the CPU
 - For parallel programming, you need multiple CPU cores
-- For Async programming, you do not need CPU cores
+- For Async programming, you do not need multiple CPU cores
 
 #### Example: Computer with a single core
 
@@ -97,7 +97,8 @@ TASK 1 |------|     (Core 1)
 Start and to their work and end in overlapping periods of time.
 
 TASK 1 start ------- end
-TASK 2   start ------ end
+
+&nbsp;&nbsp;&nbsp;TASK 2   start ------ end
 
 ### Example: Processor with only 1 core
 
