@@ -1,8 +1,9 @@
-# C# - Async, concurrent and parallelism concepts
+# ⚡ C# - Async, concurrent, and parallelism concepts
 
 ## References
 
-> I put this in a order that I consider that will be more beneficial to watch to understand these concepts
+> [!NOTE]
+> I put this in an order that I consider will be more beneficial to watch to understand these concepts
 
 ### en-US
 
