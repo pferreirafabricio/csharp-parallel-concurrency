@@ -43,6 +43,7 @@ The project also explores the differences between concurrent and parallel progra
 - [C# Advanced Async - Getting progress reports, cancelling tasks, and more](https://www.youtube.com/watch?v=ZTKGRJy5P2M)
 - [How Do You Cancel an async Method? | Step-by-Step Tutorial](https://www.youtube.com/watch?v=PQORTKShZFw)
 - [Writing async/await from scratch in C# with Stephen Toub](https://www.youtube.com/watch?v=R-z2Hv-7nxk)
+- [AsyncGuidance - David Fowler](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md)
 
 ### Portuguese
 
