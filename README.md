@@ -22,6 +22,10 @@ The project also explores the differences between concurrent and parallel progra
 > [!NOTE]
 > This project is a resource to help me understand the concepts of async, concurrent, and parallelism and their use in practical applications.
 
+## ✍️ Docs
+
+- [concepts.en-US.md](docs/concepts.en-US.md)
+
 ## :bricks: This project was built with
 
 - [.NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/overview)
